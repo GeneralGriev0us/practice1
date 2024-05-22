@@ -1,4 +1,4 @@
-#Git practice
+# Git practice
 
 You know, I can write all the things I've learned from the **course** but I think it would be better if you try _Практикум_ yourself so here's my referral link, enjoy:
 
